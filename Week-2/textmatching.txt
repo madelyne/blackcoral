@@ -1,0 +1,19 @@
+  __ _  ___  ___   ___  _ __ ___                   
+ / _` |/ __|/ __| / _ \| '_ ` _ \                  
+| (_| |\__ \\__ \|  __/| | | | | |                 
+ \__,_||___/|___/ \___||_| |_| |_|                 
+    -----------------------> <---------------------                                           
+                                   _      _        
+                        _ __ ___  | |__  | | _   _ 
+                       | '_ ` _ \ | '_ \ | || | | |
+                       | | | | | || |_) || || |_| |
+                       |_| |_| |_||_.__/ |_| \__, |
+                                             |___/ 
+                                                   
+You've just received your newest batch of specimens from a research cruise off the coast of New Zealand. You and five other team members have been charged with making sense of the nucleotide nonsense that the 454 sequencer has given you. Take a look at the data files you've been given, which can be found in the rawData folder...
+
+~
+
+...any idea how to begin sorting through these As, Ts, Cs, and Gs? Remember that the end goal of your assembly script is a single, contiguous mitogenome. It's up to you to figure out how to piece together a coherent genome from the fragments you've been given. (The header of this txt file might give you a few clues!)
+
+Open a new assembly.py (or work within a Jupyter notebook called assembly.ipynb) to begin tinkering! Remember that you'll have to wrangle these FASTA file formats, too -- how can you use the BioPython toolbox to do so? 
