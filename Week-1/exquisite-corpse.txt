@@ -9,7 +9,7 @@
 
 We'll review merge conflict resolution, updating and writing to files, and committing changes with a game that comes to us from the Surrealists -- Exquisite Corpse! 
 
-In your pairs, find the story1, story2, and story3 files in the Week-1 directory. Let me know when you've found them -- more info to come! 
+In your pairs, find the six story files in the Week-1 directory. Let me know when you've found them -- more info to come! 
 
 (Meanwhile, enjoy this ASCII coral...)
 
