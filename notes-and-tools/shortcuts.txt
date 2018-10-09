@@ -1,0 +1,3 @@
+Some nifty tips and tricks for working in Terminal. 
+
+-For quick edits in Terminal, I skip Sublime and just use vim. To open a Vim document, cd to the directory you'd like to place your file in and type 'vim filename'. This creates a new file is 'filename' didn't previously exist. If you've already got a file called 'filename', 'vim filename' will open this pre-existing document. 
